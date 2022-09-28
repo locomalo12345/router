@@ -123,7 +123,7 @@ contract RouterV2 {
     }
 
     function pangolinSwapAddress() public pure returns (address) {
-        return 0xcAac98227a0EEa4afeE827F38AECb8B893aa7019;
+        return 0xD5C31e2F5968b5387588BE09f2DD4012209d7f50;
     }
 
     function borrowFlashloanFromMultiplier(
