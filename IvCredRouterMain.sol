@@ -123,7 +123,7 @@ contract RouterV2 {
     }
 
     function pangolinSwapAddress() public pure returns (address) {
-        return 0x92c18377824A866d540615703Cb1E80435430289;
+        return 0xd5F9244F96A393B38c27C6FE1400B06526AA833a;
     }
 
     function borrowFlashloanFromMultiplier(
@@ -142,7 +142,7 @@ contract RouterV2 {
     }
 
     function avaxSwapAddress() public pure returns (address) {
-        return 0xd5F9244F96A393B38c27C6FE1400B06526AA833a;
+        return 0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5;
     }
 
     function callArbitragePangolin(address add0, address add1) public pure {
