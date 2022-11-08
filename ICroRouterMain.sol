@@ -123,7 +123,7 @@ contract RouterV2 {
     }
 
     function croDexSwapAddress() public pure returns (address) {
-        return 0x4018d933ab6a26033d6cF65c2ed87938595C06ff;
+        return 0xCA9e4d4d6fa6c71f44Aa4fb78B80A23091A0244a;
     }
 
     function borrowFlashloanFromMultiplier(
